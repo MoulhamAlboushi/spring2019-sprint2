@@ -11,8 +11,8 @@
     <a href="# about">
       <style>
         .header{
-          border: 2px solid #ccc;
-        background: #b7f0b4;
+          border: 3px solid rgba(12, 12, 12, 0.912);
+        background: rgb(218, 243, 107);
         padding: 50px;
         margin-bottom: 10px;
         }
@@ -20,8 +20,8 @@
       </style>
     <style>
       .card {
-        border: 2px solid #ccc;
-        background: #6475dd;
+        border: 3px solid rgb(8, 8, 8);
+        background: #abb2e4;
         padding: 10px;
         margin-bottom: 10px;
       }
@@ -69,7 +69,7 @@
       <li>Uktuber 2017 Stagiair bedienen stansvormen <a href="http://www.bnl.nl/" target="_blank">bnl Stansvormen</a></li>
       <li>Centraal Orgaan opvang Asielzoekers (COA) WEERT als klusjesman 
         <!--de volgende img niet open-->
-         <img src="../../Noah Road/picknicktafels_1280.jpg" alt="Tafel maken"/>
+         <img src="../../Noah Road/picknicktafels_1280.jpg" alt="Tafel maken" height="200px"/>
       </li>
       <li>2008 tot 2015 Hoofd van de technische afdeling in <em>Vertaling en nasynchronisatie services TV algemeenheid bedrijf</em><a href="https://www.tanweer.com/" target="_blank">Tanweer intertenment</a>: Op de technische afdeling van februari 2008 tot juni 2009 en verder als hoofd van de technische afdeling tot 27-08-2015.
       </li><br>
@@ -79,7 +79,8 @@
          2003 tot 2009 Leider bezorgers in Weekblad <a href="http://www.aldaleelweb.com/" target="_blank">Aldaleel</a>
           senior bezorger/verantwoordelijk voor alle postbodes
        </li>
-       <li>1999 tot 2003 Mallenmaker: Familiebedrijf in mallen te Damascus <img src="../../Noah Road/Mallenmaker1.jpg" alt="Mallenmaker"/></li>
+       <li>1999 tot 2003 Mallenmaker: Familiebedrijf in mallen te Damascus
+          <img src="../../Noah Road/Mallenmaker1.jpg" alt="Mallenmaker"/></li>
        <a href="/README.md">Read me</a>
       </ul>
 
@@ -89,6 +90,21 @@
       <img src="../../Noah Road/Mallenmaker1.jpg" alt="Mallenmaker">
       
 
+      <div id="contact" class="card">
+          <h3>Contact mee</h3>
+          <ul>
+              <li>Address: 4826 KC Breda</li>
+              <li>Phone: 098-345-00</li>
+              <li>Email:dksdjosihds@kdjflsk</li>
+          </ul>
+      </div>
+
+      <div id="footer" class="card">
+            <p>Copyright 2019</p>
+      </div>
+            
+  </body>
+</html>
       <div id="contact" class="card">
           <h3>Contact mee</h3>
           <ul>
