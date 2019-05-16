@@ -35,17 +35,8 @@ this repositos is for demo and practice pupose only.
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, suscipit praesentium inventore enim nisi iusto sint obcaecati ipsam maxime corrupti? Voluptas eos eligendi, unde expedita temporibus debitis sint adipisci porro!</p>
         <br><br>
     </div>
-    <div id="contact" class="card">
-        <h3>Contact mee</h3>
-        <ul>
-            <li>Address: 4826 KC Breda</li>
-            <li>Phone: 098-345-00</li>
-            <li>Email:dksdjosihds@kdjflsk</li>
-        </ul>
-    </div>
-        <div id="footer">
-            <p>Copyright 2020</p>
-        </div>
+    
+       
     <P>
       <strong>Moulham Al Boushi:</strong>,Ik kom uit Syrie en ik woon in Nederland,ik heb een mooi vrow en 2 kinderen.
     </P>
@@ -82,5 +73,16 @@ this repositos is for demo and practice pupose only.
       
       
       <br>
+       <div id="footer">
+            <p>Copyright 2020</p>
+            <div id="contact" class="card">
+        <h3>Contact mee</h3>
+        <ul>
+            <li>Address: 4826 KC Breda</li>
+            <li>Phone: 098-345-00</li>
+            <li>Email:dksdjosihds@kdjflsk</li>
+        </ul>
+    </div>
+        </div>
   </body>
 </html>
