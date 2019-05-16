@@ -50,7 +50,7 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
-    <div id="about" color: rgb (18, 19,20,);>
+    <div id="about" background-color: #ff0;>
         <h3>About</h3>
         <P>
           <strong>Moulham Al Boushi:</strong>,Ik kom uit Syrie en ik woon in Nederland,ik heb een mooi vrow en 2 kinderen.
