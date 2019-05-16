@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="discription" content="Deze site is in aanbouw en wordt aangepast">
     <title>website leren Mei 2020</title>
+    
   </head>
   <body>
   
@@ -33,7 +34,8 @@
     </ul>
     <div id="about" class="card">
         <h3>About</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, suscipit praesentium inventore enim nisi iusto sint obcaecati ipsam maxime corrupti? Voluptas eos eligendi, unde expedita temporibus debitis sint adipisci porro!</p>
+        <p>Ik ben een toegewijd, hard werkend en meelevend persoon, die in staat is om zowel onafhankelijk als in een team te werken. Met uitstekende contactuele vaardigheden heb ik de mogelijkheid om anderen te motiveren. Ik ben resultaatgericht en werk altijd aan een oplossing binnen de gestelde tijd.
+    </p>
         <br><br>
     </div>
     
@@ -41,8 +43,7 @@
     <P>
       <strong>Moulham Al Boushi:</strong>,Ik kom uit Syrie en ik woon in Nederland,ik heb een mooi vrow en 2 kinderen.
     </P>
-    <p>Ik ben een toegewijd, hard werkend en meelevend persoon, die in staat is om zowel onafhankelijk als in een team te werken. Met uitstekende contactuele vaardigheden heb ik de mogelijkheid om anderen te motiveren. Ik ben resultaatgericht en werk altijd aan een oplossing binnen de gestelde tijd.
-    </p>
+    
     <h3>werk ervaring</h3>
     <ul>
       <!-- target atrebut over de site om een nieuw pagina werkt niet-->
