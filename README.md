@@ -12,9 +12,10 @@
       <style>
         .header{
           border: 3px solid rgba(12, 12, 12, 0.912);
-        background: rgb(218, 243, 107);
+        background: rgb(233, 151, 96);
         padding: 50px;
         margin-bottom: 10px;
+        
         }
       
       </style>
@@ -49,12 +50,14 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
-    <div id="about">
+    <div id="about" color: rgb (18, 19,20,);>
         <h3>About</h3>
         <P>
           <strong>Moulham Al Boushi:</strong>,Ik kom uit Syrie en ik woon in Nederland,ik heb een mooi vrow en 2 kinderen.
         </p>
-        <p>Ik ben een toegewijd, hard werkend en meelevend persoon, die in staat is om zowel onafhankelijk als in een team te werken. Met uitstekende contactuele vaardigheden heb ik de mogelijkheid om anderen te motiveren. Ik ben resultaatgericht en werk altijd aan een oplossing binnen de gestelde tijd.
+        <p>Ik ben een toegewijd, hard werkend en meelevend persoon, die in staat is om zowel onafhankelijk als in een team te werken. <br/>
+          Met uitstekende contactuele vaardigheden heb ik de mogelijkheid om anderen te motiveren. Ik ben resultaatgericht en werk altijd<br/>
+          aan een oplossing binnen de gestelde tijd.
         </P>
     </div>
 
@@ -90,21 +93,6 @@
       <img src="../../Noah Road/Mallenmaker1.jpg" alt="Mallenmaker">
       
 
-      <div id="contact" class="card">
-          <h3>Contact mee</h3>
-          <ul>
-              <li>Address: 4826 KC Breda</li>
-              <li>Phone: 098-345-00</li>
-              <li>Email:dksdjosihds@kdjflsk</li>
-          </ul>
-      </div>
-
-      <div id="footer" class="card">
-            <p>Copyright 2019</p>
-      </div>
-            
-  </body>
-</html>
       <div id="contact" class="card">
           <h3>Contact mee</h3>
           <ul>
