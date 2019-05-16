@@ -28,6 +28,16 @@
       }
 
     </style>  
+
+    <style>
+      .paragraph {
+        border: 3px solid rgb(40, 40, 8);
+        background: #abb2e4;
+        padding: 10px;
+        margin-bottom: 10px;
+      }
+
+    </style>  
       
     
   </head>
@@ -50,7 +60,7 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
-    <div id="about" background-color: #ff0;>
+    <div id="about" class="paragraph">
         <h3>About</h3>
         <P>
           <strong>Moulham Al Boushi:</strong>,Ik kom uit Syrie en ik woon in Nederland,ik heb een mooi vrow en 2 kinderen.
