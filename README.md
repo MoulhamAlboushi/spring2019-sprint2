@@ -1,15 +1,16 @@
 # spring2019-sprint2
-this repositos is for demo and practice pupose only.
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
-    <title>website leren Mei 2020</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="discription" content="Deze site is in aanbouw en wordt aangepast">
+    <title>website leren Mei 2020</title>
   </head>
   <body>
+  
     <h1>SPRING 2</h1>
     <p>In this sprin we will learn about:</p>
     <ul>
