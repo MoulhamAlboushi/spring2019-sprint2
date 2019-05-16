@@ -70,9 +70,6 @@
           aan een oplossing binnen de gestelde tijd.
         </P>
     </div>
-
-
-    
     <h3>werk ervaring</h3>
     <ul>
       <!-- target atrebut over de site om een nieuw pagina werkt niet-->
@@ -97,11 +94,9 @@
        <a href="/README.md">Read me</a>
       </ul>
 
-      
       <img src="../../OUD/HTML 4.2019/SAM_1214.JPG" width="200"/>
 
       <img src="../../Noah Road/Mallenmaker1.jpg" alt="Mallenmaker">
-      
 
       <div id="contact" class="card">
           <h3>Contact mee</h3>
