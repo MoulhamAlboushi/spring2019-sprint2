@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="discription" content="Deze site is in aanbouw en wordt aangepast">
     <title>website leren Mei 2020</title>
+    <a href="# about">
     
   </head>
   <body>
@@ -32,7 +33,7 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
-    <div id="about" class="card">
+    <div id="about">
         <h3>About</h3>
         <p>Ik ben een toegewijd, hard werkend en meelevend persoon, die in staat is om zowel onafhankelijk als in een team te werken. Met uitstekende contactuele vaardigheden heb ik de mogelijkheid om anderen te motiveren. Ik ben resultaatgericht en werk altijd aan een oplossing binnen de gestelde tijd.
     </p>
