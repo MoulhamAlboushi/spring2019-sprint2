@@ -266,80 +266,82 @@
     <table style="width: 200px">
       <thead>U INFORMATIE</thead>
       <tbody>
-        <tr>
-          <td>
-              <form action="process.php">
+        <form action="process.php">
+          <tr>
+            <td>
+              <label for="name">Name</label>
+            </td>
+            <td>
+              <input type="text" placeholder="U naam">
+            </td>
+          </tr>
+          <tr>
                 
-                      <label for="name">Name</label>
-          </td>
-          <td><input type="text" placeholder="U naam"></td>
-        </tr>
-        <tr>
-          <td>
+            <td>
               <label for="email">Email</label>
-          </td>
-          <td>  <input type="email" Name="email" id="email"
-            placeholder="you Email"></td>
-        </tr>
-        <tr>
-          <td>
+            </td>
+            <td>  <input type="email" Name="email" id="email"
+            placeholder="you Email">
+            </td>
+          </tr>
+          <tr>
+            <td>
               <label for="message">Message</label> 
-          </td>
-          <td>          <textarea name="message" id="message" cols="20" rows="3"></textarea>
-          </td>
-        </tr>
-        <tr>
-          <td>
+            </td>
+            <td>          <textarea name="message" id="message" cols="20" rows="3"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
               <label for="sex">Sex</label>
-
-          </td>
-          <td>
+            </td>
+            <td>
               <select name="sex" id="sex">Sex
                   <option value="male">Male</option>
                   <option value="female">Female</option>
                   <option value="other">Other</option>
               </select>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for="age">Age</label>
-          </td>
-          <td>
-            <input type="number" name="age" id="age">
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for="birthdate">Birthdate</label>
-          </td>
-          <td>
-            <input type="date" name="birthdate" id="birthdate">
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for="membership">Membership</label>
-          </td>
-          <td>
-            <input type="radio" name="membership" value="simple" id="membership"> Simple
-          </td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>
-            <input type="radio" name="membership" value="standard" id="membership">Standard
-          </td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>
-            <input type="radio" name="membership" value="super" id="membership">Super
-          </td>
-        </tr>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="age">Age</label>
+            </td>
+            <td>
+              <input type="number" name="age" id="age">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="birthdate">Birthdate</label>
+            </td>
+            <td>
+              <input type="date" name="birthdate" id="birthdate">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="membership">Membership</label>
+            </td>
+            <td>
+              <input type="radio" name="membership" value="simple" id="membership"> Simple
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>
+              <input type="radio" name="membership" value="standard" id="membership">Standard
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>
+              <input type="radio" name="membership" value="super" id="membership">Super
+            </td>
+          </tr>
+        </form>
       </tbody>
     </table>
-  </form>
     <!-- font coclor werkt niet -->
     <div id="footer" class="Copyright">
       <p>Copyright 2019</p>
